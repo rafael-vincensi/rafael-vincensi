@@ -1,7 +1,8 @@
 ## Rafael Vincensi de Miranda
 
-Interested in backend development and computer systems.  
-Currently learning C and Java.
+Computer Science student interested in computer systems and low-level programming.
+
+Currently learning C and C++.
 
 
 ### Languages & Technologies
