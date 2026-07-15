@@ -2,7 +2,7 @@
 
 Interested in backend development, computer systems and low-level programming.
 
-Currently learning C and C++.
+Currently learning C and Java.
 
 
 ### Languages & Technologies
