@@ -2,9 +2,6 @@
 
 Interested in backend development, computer systems and low-level programming.
 
-Currently learning C and Java.
-
-
 ### Languages & Technologies
 
 <div align="left">
