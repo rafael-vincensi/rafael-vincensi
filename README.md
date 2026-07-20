@@ -5,8 +5,6 @@ Interested in backend development, computer systems and low-level programming.
 ### Languages & Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="38" alt="c logo" />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="java logo" />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo" />
