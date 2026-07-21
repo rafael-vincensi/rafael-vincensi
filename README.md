@@ -1,6 +1,6 @@
 ## Rafael Vincensi de Miranda
 
-Interested in backend development, computer systems and low-level programming.
+Computer Science student focused on backend development, Java, Spring Boot and software engineering.
 
 ### Languages & Technologies
 
