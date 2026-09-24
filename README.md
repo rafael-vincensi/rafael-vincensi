@@ -2,7 +2,8 @@
 
 **`Backend Developer`**
 
-Computer Science student, backend developer. Java, Spring Boot, mostly.
+Computer Science student. Java, Spring Boot, mostly.
+
 ### Languages & Technologies
 
 <div align="left">
