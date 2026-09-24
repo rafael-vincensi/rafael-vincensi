@@ -2,15 +2,17 @@
 
 **`Backend Developer`**
 
-Computer Science student focused on backend development, Java, Spring Boot and software engineering.
-
+Computer Science student, backend developer. Java, Spring Boot, mostly.
 ### Languages & Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="14" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="40" alt="javascript logo" />
+  <img width="14" />  
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" height="40" alt="javascript logo" />
   <img width="14" />  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" alt="spring logo" />
@@ -22,16 +24,9 @@ Computer Science student focused on backend development, Java, Spring Boot and s
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="14" />
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="git logo" />
   <img width="14" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" height="40" alt="hibernate logo" />
-  <img width="14" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="40" alt="maven logo" />
-  <img width="14" />
-
+   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
